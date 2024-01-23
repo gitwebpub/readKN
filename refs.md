@@ -9,3 +9,5 @@ Association between past OC use and the prevalence of HTN in postmenopausal wome
 - Interpretable Deep-Learning Approaches for Osteoporosis Risk Screening and Individualized Feature Analysis Using Large Population-Based Data: Model Development and Performance Evaluation
 (https://pubmed.ncbi.nlm.nih.gov/36482780/)
 
+### 2024-01-23, 09:45 AM
+- Urban areas are any densely settled areas consisting of 2,000 or more housing units or 5,000 or more people
