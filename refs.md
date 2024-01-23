@@ -11,3 +11,5 @@ Association between past OC use and the prevalence of HTN in postmenopausal wome
 
 ### 2024-01-23, 09:45 AM
 - Urban areas are any densely settled areas consisting of 2,000 or more housing units or 5,000 or more people
+- Housing unit : 가구수
+- 
