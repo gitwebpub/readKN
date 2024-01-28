@@ -19,3 +19,7 @@ Association between past OC use and the prevalence of HTN in postmenopausal wome
 - Lower socioeconomic status associated with higher tuberculosis rate in South Korea
   - Fig. Age-standardized prevalence and mortality rate of tuberculosis in South Korea, 2001–2021
   - lower the monthly household income and education level
+
+### 2024-01-28, 09:42 PM
+- https://davidcarslaw.github.io/openair/
+- 상대습도 데이터 구하기
