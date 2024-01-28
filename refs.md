@@ -15,6 +15,9 @@ Association between past OC use and the prevalence of HTN in postmenopausal wome
 - (2021) Sunlight exposure and eye disorders in an economically active population: data from the KNHANES 2008-2012
   - Action ) Additional prospective studies to clarify the pathophysiology of pterygium are needed.
 
+### 2024-01-25
+- The Adverse Effects of Air Pollution on the Eye A Review
+- 
 ### 2024-01-27, 06:04 PM
 - Lower socioeconomic status associated with higher tuberculosis rate in South Korea
   - Fig. Age-standardized prevalence and mortality rate of tuberculosis in South Korea, 2001–2021
@@ -23,3 +26,15 @@ Association between past OC use and the prevalence of HTN in postmenopausal wome
 ### 2024-01-28, 09:42 PM
 - https://davidcarslaw.github.io/openair/
 - 상대습도 데이터 구하기
+- 2022 대기환경연보
+- MONTHLY REPORT OF AIR QUALITY, JUNE. 2023
+- Multiple regression 관련 책 구매
+
+### 2024-01-29 Mon, 07:39 AM
+
+
+### 2024-01-29, 07:34 AM
+
+### 2024-01-29, 07:34 AM
+
+### 2024-01-29, 07:34 AM
