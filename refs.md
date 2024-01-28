@@ -31,7 +31,7 @@ Association between past OC use and the prevalence of HTN in postmenopausal wome
 - Multiple regression 관련 책 구매
 
 ### 2024-01-29 Mon, 07:39 AM
-
+- Development of the Korean Healthy Eating Index for adults, based on the Korea National Health and Nutrition Examination Survey
 
 ### 2024-01-29, 07:34 AM
 
