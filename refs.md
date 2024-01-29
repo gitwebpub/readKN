@@ -34,6 +34,8 @@ Association between past OC use and the prevalence of HTN in postmenopausal wome
 - Development of the Korean Healthy Eating Index for adults, based on the Korea National Health and Nutrition Examination Survey
 - 한국 성인에서 요 코티닌으로 확인한 흡연상태와 혈중 고감도 C-반응 단백 농도(High-Sensitivity C-Reactive Protein)의 연관성: 국민건강영양조사 2016–2018년 자료 이용
 - (2007) 간접흡연과 요 중 코티닌치의 관계
+- https://www.gerkelab.com/blog/2018/09/import-directory-csv-purrr-readr/
+- 
 ### 2024-01-29, 07:34 AM
 
 ### 2024-01-29, 07:34 AM
