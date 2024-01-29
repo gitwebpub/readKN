@@ -37,7 +37,7 @@ Association between past OC use and the prevalence of HTN in postmenopausal wome
 - https://www.gerkelab.com/blog/2018/09/import-directory-csv-purrr-readr/
 
 ### 2024-01-30 Tue, 01:41 AM
-
+- https://bioinformaticsandme.tistory.com/58?category=808983
 
 ### 2024-01-29, 07:34 AM
 
